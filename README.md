@@ -17,8 +17,10 @@ Currently expanding my expertise in Software Development and cloud technologies 
 📫 Let’s Connect
 
 <a href="https://www.instagram.com/madhu_pujari_/profilecard/?igsh=MTBva2NkOW12ZnVxeQ==" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" alt="Instagram" width="40" height="40"/>
 </a>
+
+<br>
 
 <a href="https://linkedin.com/in/madhu-pujari-mp160324" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="40" height="40"/>
