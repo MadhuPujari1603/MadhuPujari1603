@@ -20,10 +20,10 @@ Currently expanding my expertise in Software Development and cloud technologies 
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  />
 </a>
 
-
 <a href="https://linkedin.com/in/madhu-pujari-mp160324" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="40" height="40"/>
 </a>
+
 
 
 
