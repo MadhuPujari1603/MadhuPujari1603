@@ -21,8 +21,10 @@ Currently expanding my expertise in Software Development and cloud technologies 
 </a>
 
 
+<a href="https://linkedin.com/in/madhu-pujari-mp160324" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 
-[LinkedIn - Madhu Pujari](https://linkedin.com/in/madhu-pujari-mp160324)
 
 
 🚀
