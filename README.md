@@ -29,7 +29,8 @@ Currently expanding my expertise in Software Development and cloud technologies 
 <br>
 
 
-🚀
+
+##🚀
 "I transform ideas into innovative solutions by blending passion, precision, and cutting-edge technology." 
 
 ### :hammer_and_wrench: Tech Stack
