@@ -69,6 +69,10 @@ LinkedIn: linkedin.com/in/madhu-pujari
 <img src="https://img.shields.io/badge/Servlet-4CAF50?style=for-the-badge&logo=java&logoColor=white" alt="Servlet"/>
 <img src="https://img.shields.io/badge/JSP-4CAF50?style=for-the-badge&logo=java&logoColor=white" alt="JSP"/>
 <img src="https://img.shields.io/badge/JDBC-4CAF50?style=for-the-badge&logo=java&logoColor=white" alt="JDBC"/>
+<img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM"/>
+<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA"/>
+
+
 
 
 
