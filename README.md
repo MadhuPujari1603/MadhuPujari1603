@@ -1,6 +1,6 @@
 Hi there!
 <br>
-###:👨‍💻 About Me
+👨‍💻 About Me
 I’m Madhu Pujari, a skilled Backend Developer with a passion for delivering robust, scalable, and efficient solutions. With expertise in Java Spring Boot and full-stack development, I specialize in building dynamic applications that address complex real-world challenges. My commitment to clean code, innovative problem-solving, and seamless integration ensures impactful outcomes.
 
 
