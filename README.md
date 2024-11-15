@@ -15,8 +15,6 @@ Delivered solutions emphasizing code quality, unit/integration testing, and team
 Currently expanding my expertise in Software Development and cloud technologies to drive innovation in Full Stack development.
 
 📫 Let’s Collaborate
-[Email - connect](madhupujari609@gmail.com)
-<br>
 
 
 [LinkedIn - Madhu Pujari](https://linkedin.com/in/madhu-pujari-mp160324)
