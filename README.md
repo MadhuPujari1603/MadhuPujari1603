@@ -19,7 +19,7 @@ Email: madhupujari609@gmail.com
 <br>
 
 
-[LinkedIn - Madhu Pujari](www.linkedin.com/in/madhu-pujari-mp160324)
+[LinkedIn - Madhu Pujari](https://linkedin.com/in/madhu-pujari-mp160324)
 
 
 🚀
