@@ -17,7 +17,10 @@ Currently expanding my expertise in Software Development and cloud technologies 
 📫 Let’s Collaborate
 Email: madhupujari609@gmail.com
 <br>
- LinkedIn - <link: Madhu Pujari>
+
+
+[LinkedIn - Madhu Pujari](https://www.linkedin.com/in/madhu-pujari)
+
 
 🚀
 "I transform ideas into innovative solutions by blending passion, precision, and cutting-edge technology." 
