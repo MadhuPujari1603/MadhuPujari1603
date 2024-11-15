@@ -80,8 +80,6 @@ Currently expanding my expertise in Software Development and cloud technologies 
 <img src="https://img.shields.io/badge/Git%20Bash-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Bash"/>
 <img src="https://img.shields.io/badge/Lombok-FFA500?style=for-the-badge&logo=lombok&logoColor=black" alt="Lombok"/>
 <img src="https://img.shields.io/badge/MongoDB%20Compass-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Compass"/>
-<img src="https://img.shields.io/badge/Servlet-4CAF50?style=for-the-badge&logo=java&logoColor=white" alt="Servlet"/>
-<img src="https://img.shields.io/badge/JSP-4CAF50?style=for-the-badge&logo=java&logoColor=white" alt="JSP"/>
 <img src="https://img.shields.io/badge/JDBC-4CAF50?style=for-the-badge&logo=java&logoColor=white" alt="JDBC"/>
 <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM"/>
 <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose"/>
