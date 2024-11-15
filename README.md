@@ -26,7 +26,7 @@ Currently expanding my expertise in Software Development and cloud technologies 
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20"/>
 </a>
 
-
+<br>
 
 
 🚀
