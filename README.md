@@ -87,5 +87,5 @@ Currently expanding my expertise in Software Development and cloud technologies 
 </p>
 
 
-![Madhu Pujari's GitHub Stats](https://github-readme-stats.vercel.app/api?MadhuPujari1603=MadhuPujari1603&show_icons=true&theme=radical)
+![Madhu Pujari's GitHub Stats](https://github-readme-stats.vercel.app/api?MadhuPujari1603="MadhuPujari1603"&show_icons=true&theme=radical)
 
